@@ -1,7 +1,7 @@
 
-SISTEMA DE GERENCIAMENTO DE EVENTOS
+#SISTEMA DE GERENCIAMENTO DE EVENTOS
 
-Feito em Java + Postgresql + Bootstrap + JavaScript
+#Feito em Java + Postgresql + Bootstrap + JavaScript
 
 DESCRIÇÃO GERAL
 Devem existir 3 papéis de usuários: administrador, membro e participante.
